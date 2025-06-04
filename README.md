@@ -1,47 +1,74 @@
-# Astro Starter Kit: Minimal
+# Kosta: A Swedish Gem in Småland
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Welcome to the repository for the **Kosta website project**, a platform dedicated to showcasing the charm, history, and attractions of the Swedish village of Kosta. Whether you are a local resident, a visitor, or someone with a passion for unique destinations, this website aims to provide all the information you need about this iconic location.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## Features
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Historical Insights**: Learn about Kosta’s founding in 1742 and its evolution as a hub for glass art.
+- **Tourist Attractions**: Explore key highlights such as Kosta Glasbruk, Kosta Boda Art Hotel, and the Kosta Safari Park.
+- **Local Culture**: Discover Kosta’s vibrant community, local delicacies, and artisan crafts.
+- **Interactive Design**: Navigate an intuitive interface with interactive maps, image galleries, and contact forms.
 
-## 🚀 Project Structure
+## Technologies Used
 
-Inside of your Astro project, you'll see the following folders and files:
+- **Framework**: Astro - a modern, performance-focused static site generator.
+- **Styling**: Tailwind CSS for scalable and consistent design.
+- **Interactivity**: Vanilla JavaScript with optional React components.
+- **Deployment**: GitHub Pages for simple and effective hosting.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Installation
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+To run this project locally:
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/kosta.github.io
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd kosta.github.io
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and navigate to `http://localhost:3000` to preview the site.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Contributing
 
-## 🧞 Commands
+We welcome contributions to improve this project! Here’s how you can help:
 
-All commands are run from the root of the project, from a terminal:
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Description of feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## License
 
-## 👀 Want to learn more?
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Contact
+
+For questions, feedback, or collaboration opportunities, please reach out to:
+
+- **Name**: Viktor Erlandsson
+- **Email**: 
+- **GitHub**: [trallan](https://github.com/trallan)
+
+---
+
+Thank you for exploring Kosta through this project! Together, let’s celebrate the beauty and heritage of this incredible village.
