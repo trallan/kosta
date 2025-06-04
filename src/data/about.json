@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Min Relation till Kosta",
+        "description": "Hej! Jag heter Viktor Erlandsson, och jag har haft förmånen att kalla Kosta mitt hem under en period av mitt liv.\nUnder den tiden fascinerades jag av byns rika historia, dess världsberömda glaskonst och den gemenskap som genomsyrar platsen.\nGenom den här hemsidan vill jag dela med mig av min kärlek till Kosta och inspirera fler att upptäcka denna unika pärla i Småland."
+    },
+    {
+        "title": "Syftet med Webbplatsen",
+        "description": "Denna webbplats är skapad som en hyllning till Kosta – en plats som kombinerar historia, konst och natur på ett fantastiskt sätt.\nSyftet är att sprida kunskap om Kosta’s historia och kulturella betydelse, stödja lokala företag och initiativ, samt inspirera besökare att upptäcka allt som byn har att erbjuda."
+    },
+    {
+        "title": "Hur Webbplatsen Skapades",
+        "description": "Hemsidan är byggd med hjälp av moderna webbutvecklingsverktyg, inklusive Astro och Tailwind CSS.\nJag strävade efter att designa en enkel och stilren webbplats som reflekterar Kosta’s skandinaviska estetik.\nInformationen och bilderna är noggrant insamlade från både lokala källor och mina egna upplevelser."
+    },
+    {
+        "title": "Kosta: Mer än en By",
+        "description": "Kosta är inte bara en liten by i Småland.\nDet är en plats där hantverkstraditioner möter innovation.\nGenom sin glaskonst och sitt kulturella arv har Kosta satt Småland på världskartan.\nDet är ett ställe där historia lever vidare och skapar nya berättelser för varje generation."
+    },
+    {
+        "title": "Framtida Planer",
+        "description": "Jag ser denna hemsida som ett pågående projekt.\nI framtiden hoppas jag kunna utöka med fler sektioner,\nsamarbeta med lokala företag för att ge besökare ännu mer resurser, samt dela fler bilder och interaktiva funktioner som kartor och tidslinjer."
+    },
+    {
+        "title": "Kontakt",
+        "description": "Har du frågor, förslag eller kanske en egen historia om Kosta att dela?\nJag skulle älska att höra från dig!",
+        "_comment": "Du kan nå mig via [e-postadress]."
+    }
+]
+
