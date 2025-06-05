@@ -22,11 +22,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kosta.github.io
+   git clone https://github.com/trallan/kosta
    ```
 2. Navigate to the project directory:
    ```bash
-   cd kosta.github.io
+   cd kosta
    ```
 3. Install dependencies:
    ```bash
