@@ -1,6 +1,12 @@
 @import "tailwindcss";
 
+:root {
+      --gray-light: 237, 239, 242; /* RGB for #edeff2 */
+      --gray-gradient: rgba(var(--gray-light), 0.5), #ffffff; /* Gradient definition */
+    }
+
 body {
-    background-color: linear-gradient(to bottom, #edeff2, #ffffff);
+    background: linear-gradient(to bottom, var(--gray-gradient)) no-repeat;
+    background-size: 100% 600px;
     font-family: poppins;
 }
